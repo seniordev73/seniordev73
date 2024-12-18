@@ -6,7 +6,7 @@
 - React(Redux, Mobx, Context), Next.js, Blitz.js, Gatsby
 - Ionic Framework, React Native, Expo
 - Tailwind CSS, SCSS/LESS, Styled components
-- ASP.NET, Django(DRF), Flask, Ruby on Rails
+- ASP.NET, Django(DRF), Flask, Ruby on Rails, Laravel
 - Unit Testing, E2E Testing, Integration Testing, Jest, Cypress, React Testing Library
 - GraphQL, REST API
 - Node.js, Express.js, Koa.js, Nest.js
